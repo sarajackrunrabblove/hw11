@@ -72,5 +72,7 @@ public  class node {
                 System.out.println("\nElement is found");
             else
                 System.out.println("\nElement is not present in the list");
+
         }
+
 }
