@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 
-public class FindAllPermutations {
+public class FindAllPermutation {
     public static Set<String> permutationFinder(String str) {
         Set<String> perm = new HashSet<String>();
 
